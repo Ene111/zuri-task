@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    font-family: Averta, sans-serif;
+}
+#head-image{
+    margin: auto;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.first-half{
+    background-image: url("/zuri-landing-bakg.svg");
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
